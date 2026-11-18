@@ -1,0 +1,22 @@
+2026-11-19 03:17:04,405 - Mock Version: 6.9
+2026-11-19 03:17:04,424 - Start(bootstrap): chroot init
+2026-11-19 03:17:04,458 - Start(bootstrap): cleaning package manager metadata
+2026-11-19 03:17:04,474 - Finish(bootstrap): cleaning package manager metadata
+2026-11-19 03:17:06,691 - Finish(bootstrap): chroot init
+2026-11-19 03:17:06,692 - Start: chroot init
+2026-11-19 03:17:06,718 - Start: cleaning package manager metadata
+2026-11-19 03:17:06,792 - Finish: cleaning package manager metadata
+2026-11-19 03:17:08,148 - Start: installing minimal buildroot with yum
+2026-11-19 03:20:50,911 - Finish: installing minimal buildroot with yum
+2026-11-19 03:20:58,945 - Start: creating root cache
+2026-11-19 03:21:17,164 - Finish: creating root cache
+2026-11-19 03:21:17,208 - Finish: chroot init
+2026-11-19 03:21:17,961 - Start: build phase for nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:21:17,967 - Start: build setup for nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:23:56,832 - Finish: build setup for nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:23:57,373 - Start: rpmbuild nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:23:57,380 - Start: Outputting list of installed packages
+2026-11-19 03:24:00,201 - Finish: Outputting list of installed packages
+2026-11-19 03:43:36,464 - Finish: rpmbuild nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:43:36,993 - Finish: build phase for nginx-1.30.7-1.el8.src.rpm
+2026-11-19 03:43:37,073 - Finish: run
